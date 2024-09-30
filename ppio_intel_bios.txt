@@ -1,0 +1,34 @@
+#################CPU Performance Mode###########
+ENERGY_PERF_BIAS_CFG mode=Performance
+Energy Performance BIAS Setting=Performance
+#Power/Performance Profile=Custom
+Power Operation Mode=Max Performance
+#################Turbo MOde#####################
+Turbo Mode=Enable
+Turbo Boost=Enable
+#################C State########################
+Autonomous Core C-State=Disable
+Package C State=C0/C1 state
+Package C-State=C0/C1 state
+Enhanced Halt State (C1E)=Disable
+################Numa############################
+Numa=Enable
+NUMA Optimized=Enable
+Virtual Numa=Disable
+#################VT for Directed################
+VT-d=Enable
+VT for Directed=Enable
+VMX=Enable
+#################SNC(Sub Numa)##################
+SNC=Disable
+Sub NUMA Clustering=Disable
+#################HT#############################
+Hyper-Threading=Enable
+Hyper Threading=Enable
+#################
+SpeedStep=Enable
+Power Performance Tuning=OS Controls EPB
+Monitor/Mwait=Disable
+Above 4G Decoding=Enable
+Extended APIC=Disable
+SR-IOV Support=disable

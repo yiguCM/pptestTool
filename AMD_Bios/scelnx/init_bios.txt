@@ -1,0 +1,7 @@
+// Script File Name : /root/BIOS/tool/scelnx/scelnx_bios.txt
+// Created on 02/04/20 at 16:37:57    
+// Copyright (c)2018 American Megatrends, Inc.
+// AMISCE Utility. Ver 5.03.1125
+
+HIICrc32= 528EC7F5
+
